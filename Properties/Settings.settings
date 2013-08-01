@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="grafLoader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="eseguibileLocale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\prenotaMI\prenotazioni.exe</Value>
+    </Setting>
+    <Setting Name="eseguibileRemoto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">p:\prenotaMI\update\prenotazioni.exe</Value>
+    </Setting>
+    <Setting Name="cartellaLocale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\prenotaMI\</Value>
+    </Setting>
+    <Setting Name="cartellaRemota" Type="System.String" Scope="User">
+      <Value Profile="(Default)">p:\prenotaMI\update</Value>
+    </Setting>
+    <Setting Name="parametri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A 18</Value>
+    </Setting>
+    <Setting Name="nomeProgramma" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Prenotazioni Ambulatori</Value>
+    </Setting>
+    <Setting Name="copiaSoloQuestiFiles" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="copiaTutto" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eseguiDa" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
